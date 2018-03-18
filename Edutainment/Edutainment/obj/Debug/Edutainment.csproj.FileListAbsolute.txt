@@ -1,0 +1,14 @@
+E:\Projects\Softrica\Edutainment\Edutainment\bin\Debug\Edutainment.exe.config
+E:\Projects\Softrica\Edutainment\Edutainment\bin\Debug\Edutainment.exe
+E:\Projects\Softrica\Edutainment\Edutainment\bin\Debug\Edutainment.pdb
+E:\Projects\Softrica\Edutainment\Edutainment\bin\Debug\EntityFramework.dll
+E:\Projects\Softrica\Edutainment\Edutainment\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Softrica\Edutainment\Edutainment\obj\Debug\Edutainment.Properties.Resources.resources
+E:\Projects\Softrica\Edutainment\Edutainment\obj\Debug\Edutainment.csproj.GenerateResource.Cache
+E:\Projects\Softrica\Edutainment\Edutainment\obj\Debug\Edutainment.csproj.CoreCompileInputs.cache
+E:\Projects\Softrica\Edutainment\Edutainment\obj\Debug\Edutainment.exe
+E:\Projects\Softrica\Edutainment\Edutainment\obj\Debug\Edutainment.pdb
+E:\Projects\Softrica\Edutainment\Edutainment\obj\Debug\Edutainment.StoryForm.resources
+E:\Projects\Softrica\Edutainment\Edutainment\obj\Debug\Edutainment.StartGame.resources
+E:\Projects\Softrica\Edutainment\Edutainment\obj\Debug\Edutainment.csprojResolveAssemblyReference.cache
+E:\Projects\Softrica\Edutainment\Edutainment\obj\Debug\Edutainment.ManagePlayer.resources
